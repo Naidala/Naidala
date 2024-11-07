@@ -11,7 +11,7 @@
 - 🤖 [Priority-based distributed coordination for heterogeneous multi-robot systems with realistic assumptions](https://github.com/miche-sr/SRD--github)
 - 🦾 [Kinematic control of a 4-axis serial manipulator, simulated in ROS/Gazebo](https://github.com/Naidala/4-axis-arm)
 - 🕹️ [Navigation and Guidance of a Crazyflie UAV, supported by a Motion Capture system](https://github.com/slim71/CrazyFlie-SdGN)
-- 🚀 [C-based Multithreaded spacecraft navigation game with global variable locks](link_to_repo)
+- 🚀 [C-based Multithreaded spacecraft navigation game with global variable locks](https://github.com/Naidala/RealTimeLEM)
 
 ### Machine Learning
 
@@ -22,7 +22,7 @@
 
 ## 🌱 Currently Exploring
 
-- 🔍 [Algorithms for Optimization](link_to_repo)
+- 🔍 [Algorithms for Optimization](https://github.com/Naidala/OptimizationExercises)
 
 ---
 
