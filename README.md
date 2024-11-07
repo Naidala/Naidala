@@ -1,6 +1,6 @@
-# 🌍 Welcome to My GitHub!
+# 🌍 Welcome!
 
-🚧 **This account is a work in progress**: I’m organizing my past projects, master’s research, and current personal learning projects to make them accessible and clear for anyone interested.
+🚧 **This account is a work in progress**: I’m organizing my past projects and research, and current personal learning projects to make them accessible and clear for anyone interested.
 
 ---
 
