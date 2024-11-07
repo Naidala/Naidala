@@ -1,16 +1,42 @@
-## Hi there 👋
+# 🌍 Welcome to My GitHub!
 
-<!--
-**Naidala/Naidala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚧 **This account is a work in progress**: I’m organizing my past projects, master’s research, and current personal learning projects to make them accessible and clear for anyone interested.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects I've Worked On
+
+### Robotics
+
+- 🤖 [Priority-based distributed coordination for heterogeneous multi-robot systems with realistic assumptions](https://github.com/miche-sr/SRD--github)
+- 🦾 [Kinematic control of a 4-axis serial manipulator, simulated in ROS/Gazebo](https://github.com/Naidala/4-axis-arm)
+- 🕹️ [Navigation and Guidance of a Crazyflie UAV, supported by a Motion Capture system](https://github.com/slim71/CrazyFlie-SdGN)
+- 🚀 [C-based Multithreaded spacecraft navigation game with global variable locks](link_to_repo)
+
+### Machine Learning
+
+- 📷 [Transfer learning with generative models for object detection on limited datasets](https://github.com/trianam/qmlAuv)
+- 🩺 [Convolutional Neural Network for abnormality detection in medical imaging](https://github.com/Naidala/CNN_medical_imaging)
+
+---
+
+## 🌱 Currently Exploring
+
+- 🔍 [Algorithms for Optimization](link_to_repo)
+
+---
+
+## 🔭 Looking to Learn More About
+
+- 🧠 Decision-making algorithms and Multi-agent systems
+- 🌐 Complex systems theory and Network Dynamics
+
+---
+
+## 📫 How to Reach Me
+
+✉️ **Email**: paianomatteo96@gmail.com
+
+---
+
+Thanks for visiting! Stay tuned 😊
