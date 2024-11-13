@@ -23,13 +23,14 @@
 ## 🌱 Currently Exploring
 
 - 🔍 [Algorithms for Optimization](https://github.com/Naidala/OptimizationExercises)
-- 📈 [Data analysis and Time Series]
+- 📈 Data analysis and Time Series
 
 ---
 
 ## 🔭 Looking to Learn More About
 
 - 🧠 Decision-making algorithms and Multi-agent systems
+- ✍ Large Language Models (LLM)
 - 🌐 Complex systems theory and Network Dynamics
 
 ---
