@@ -23,6 +23,7 @@
 ## 🌱 Currently Exploring
 
 - 🔍 [Algorithms for Optimization](https://github.com/Naidala/OptimizationExercises)
+- 📈 [Data analysis and Time Series]
 
 ---
 
