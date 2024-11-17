@@ -7,7 +7,7 @@
 ## 🌱 Currently Exploring
 
 - 🔍 [Algorithms for Optimization](https://github.com/Naidala/OptimizationExercises)
-- 📈 Data analysis and Time Series
+- 📈 [Data analysis and Time Series](https://github.com/Naidala/R_DataAnalysis)
 
 ---
 
